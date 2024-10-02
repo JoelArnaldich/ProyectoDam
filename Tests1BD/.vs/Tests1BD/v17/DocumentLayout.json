@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\tests1bd\\testconsolabd\\testconsolabd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\testconsolabd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\tests1bd\\testconsolabd\\meals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\meals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\tests1bd\\testconsolabd\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB90D4-1CE2-49ED-9FE8-6D8749B98369}|Tests1BD\\Tests1BD.csproj|c:\\users\\jowkey\\source\\repos\\tests1bd\\tests1bd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB90D4-1CE2-49ED-9FE8-6D8749B98369}|Tests1BD\\Tests1BD.csproj|solutionrelative:tests1bd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Meals.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\Meals.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Meals.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\Meals.cs",
+              "RelativeToolTip": "TestConsolaBD\\Meals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:03:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\Users.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Users.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\Users.cs",
+              "RelativeToolTip": "TestConsolaBD\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:57:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestConsolaBD",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
+              "RelativeDocumentMoniker": "TestConsolaBD\\TestConsolaBD.csproj",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
+              "RelativeToolTip": "TestConsolaBD\\TestConsolaBD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T14:56:45.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\Tests1BD\\Class1.cs",
+              "RelativeDocumentMoniker": "Tests1BD\\Class1.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\Tests1BD\\Class1.cs",
+              "RelativeToolTip": "Tests1BD\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:55:24.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
