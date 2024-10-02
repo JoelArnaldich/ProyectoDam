@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj": {}
+    "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj": {
+    "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
+        "projectUniqueName": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
         "projectName": "TestConsolaBD",
-        "projectPath": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
+        "projectPath": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
         "packagesPath": "C:\\Users\\Jowkey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\TestConsolaBD\\obj\\",
+        "outputPath": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

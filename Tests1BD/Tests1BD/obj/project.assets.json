@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\Tests1BD\\Tests1BD.csproj",
+      "projectUniqueName": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\Tests1BD.csproj",
       "projectName": "Tests1BD",
-      "projectPath": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\Tests1BD\\Tests1BD.csproj",
+      "projectPath": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\Tests1BD.csproj",
       "packagesPath": "C:\\Users\\Jowkey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jowkey\\source\\repos\\Tests1BD\\Tests1BD\\obj\\",
+      "outputPath": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
