@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestConsolaBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+821f83ad3cfb8b8d50dd2b97db7a066fa91da86f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b77bfbb2ef7e7f093542d33c3356563ffd9c46")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestConsolaBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestConsolaBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,48 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\answeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\answeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\dialyexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\dialyexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\testconsolabd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\testconsolabd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67CB90D4-1CE2-49ED-9FE8-6D8749B98369}|Tests1BD\\Tests1BD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\tests1bd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CB90D4-1CE2-49ED-9FE8-6D8749B98369}|Tests1BD\\Tests1BD.csproj|solutionrelative:tests1bd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67CB90D4-1CE2-49ED-9FE8-6D8749B98369}|Tests1BD\\Tests1BD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\tests1bd\\tests1bd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{67CB90D4-1CE2-49ED-9FE8-6D8749B98369}|Tests1BD\\Tests1BD.csproj|solutionrelative:tests1bd\\tests1bd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\models\\dialywater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\models\\dialywater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\answeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\answeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\dialywater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\dialywater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\dialytotalmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\dialytotalmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\dialyexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\dialyexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|c:\\users\\jowkey\\source\\repos\\projecte\\tests1bd\\testconsolabd\\migrations\\20241003164122_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EA779B-4E82-402C-9534-4316E042E8AB}|TestConsolaBD\\TestConsolaBD.csproj|solutionrelative:testconsolabd\\migrations\\20241003164122_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,140 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\AppDbContext.cs",
-              "RelativeToolTip": "TestConsolaBD\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "DialyExercise.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\DialyExercise.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\DialyExercise.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\DialyExercise.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\DialyExercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:36:19.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AnswerIA.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\AnswerIA.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\AnswerIA.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\AnswerIA.cs",
-              "RelativeToolTip": "TestConsolaBD\\AnswerIA.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:29:38.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Meal.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Meal.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\Meal.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Meal.cs",
-              "RelativeToolTip": "TestConsolaBD\\Meal.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwBoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:03:14Z"
+              "WhenOpened": "2024-10-03T18:17:33.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Objective.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Objective.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\Objective.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Objective.cs",
-              "RelativeToolTip": "TestConsolaBD\\Objective.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\Objective.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\Objective.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\Objective.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\Objective.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:30:00.835Z"
+              "WhenOpened": "2024-10-03T17:58:12.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\User.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\User.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\User.cs",
-              "RelativeToolTip": "TestConsolaBD\\User.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Main.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Main.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Main.cs",
+              "RelativeToolTip": "TestConsolaBD\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:57:14.494Z"
+              "WhenOpened": "2024-10-03T18:03:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MealType.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\MealType.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\MealType.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\MealType.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\MealType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:58:11.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DialyWater.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\DialyWater.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\DialyWater.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\DialyWater.cs",
-              "RelativeToolTip": "TestConsolaBD\\DialyWater.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\DialyWater.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\DialyWater.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\DialyWater.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\DialyWater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:22:35.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tests1BD.csproj",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\Tests1BD.csproj",
-              "RelativeDocumentMoniker": "Tests1BD\\Tests1BD.csproj",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\Tests1BD.csproj",
-              "RelativeToolTip": "Tests1BD\\Tests1BD.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T16:43:23.927Z"
+              "WhenOpened": "2024-10-03T17:58:10.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:58:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnswerIA.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\AnswerIA.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\AnswerIA.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\AnswerIA.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\AnswerIA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:51:58.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Models\\User.cs",
+              "RelativeToolTip": "TestConsolaBD\\Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:50:24.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TestConsolaBD.csproj",
               "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
               "RelativeDocumentMoniker": "TestConsolaBD\\TestConsolaBD.csproj",
               "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\TestConsolaBD.csproj",
               "RelativeToolTip": "TestConsolaBD\\TestConsolaBD.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-02T14:56:45.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\Class1.cs",
-              "RelativeDocumentMoniker": "Tests1BD\\Class1.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\Tests1BD\\Class1.cs",
-              "RelativeToolTip": "Tests1BD\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:55:24.001Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DialyTotalMeal.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\DialyTotalMeal.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\DialyTotalMeal.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\DialyTotalMeal.cs",
-              "RelativeToolTip": "TestConsolaBD\\DialyTotalMeal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Title": "20241003164122_primeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Migrations\\20241003164122_primeraMigracion.cs",
+              "RelativeDocumentMoniker": "TestConsolaBD\\Migrations\\20241003164122_primeraMigracion.cs",
+              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\Migrations\\20241003164122_primeraMigracion.cs",
+              "RelativeToolTip": "TestConsolaBD\\Migrations\\20241003164122_primeraMigracion.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:29:07.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DialyExercise.cs",
-              "DocumentMoniker": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\DialyExercise.cs",
-              "RelativeDocumentMoniker": "TestConsolaBD\\DialyExercise.cs",
-              "ToolTip": "C:\\Users\\Jowkey\\source\\repos\\Projecte\\Tests1BD\\TestConsolaBD\\DialyExercise.cs",
-              "RelativeToolTip": "TestConsolaBD\\DialyExercise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:30:24.904Z"
+              "WhenOpened": "2024-10-03T17:14:13.015Z",
+              "EditorCaption": ""
             }
           ]
         }

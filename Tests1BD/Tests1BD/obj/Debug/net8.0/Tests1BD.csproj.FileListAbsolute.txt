@@ -1,0 +1,15 @@
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\bin\Debug\net8.0\Tests1BD.deps.json
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\bin\Debug\net8.0\Tests1BD.runtimeconfig.json
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\bin\Debug\net8.0\Tests1BD.dll
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\bin\Debug\net8.0\Tests1BD.pdb
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.csproj.AssemblyReference.cache
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.AssemblyInfoInputs.cache
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.AssemblyInfo.cs
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.csproj.CoreCompileInputs.cache
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.sourcelink.json
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.dll
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\refint\Tests1BD.dll
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.pdb
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\Tests1BD.genruntimeconfig.cache
+C:\Users\Jowkey\source\repos\Projecte\Tests1BD\Tests1BD\obj\Debug\net8.0\ref\Tests1BD.dll
