@@ -19,7 +19,7 @@ namespace TestConsolaBD
         public int Protein { get; set; }
         public int Carbohydrate { get; set; }
         public int Fat { get; set; }
-        public DateTime Date { get; set; }
+        public DateOnly Date { get; set; }
         public int MealTypeID { get; set; }
         public required int UserID { get; set; }
 

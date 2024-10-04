@@ -23,8 +23,11 @@ namespace TestConsolaBD
 
         public int GoalWeight { get; set; }
 
+
         //propiedad navegacion
         public required User User { get; set; }
+
+
 
     }
 }

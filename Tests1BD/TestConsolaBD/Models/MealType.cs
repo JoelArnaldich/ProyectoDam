@@ -16,6 +16,7 @@ namespace TestConsolaBD
 
         // Navegación
         public required List<Meal> Meals { get; set; }
+
     }
 
 }

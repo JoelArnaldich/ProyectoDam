@@ -15,10 +15,11 @@ namespace TestConsolaBD
         public int Walk {  get; set; }
         public int Run { get; set; }
         public int LiftWeights { get; set; }
-        public int ExerciseHighPerfomance { get; set; }
+        public int ExerciseHighPerformance { get; set; }
         public int ExerciseMediumPerformance { get; set; }
         public int ExerciseLowPerformance { get; set; }
-        public DateTime Date {  get; set; }
+        public DateOnly Date {  get; set; }
+        public required int UserID { get; set; }
 
         //propiedad navegacion
         public required User User { get; set; }

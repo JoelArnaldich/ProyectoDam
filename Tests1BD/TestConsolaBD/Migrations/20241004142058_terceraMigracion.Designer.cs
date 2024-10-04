@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TestConsolaBD;
 
@@ -11,9 +12,11 @@ using TestConsolaBD;
 namespace TestConsolaBD.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241004142058_terceraMigracion")]
+    partial class terceraMigracion
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -41,7 +44,7 @@ namespace TestConsolaBD.Migrations
 
                     b.HasIndex("UserID");
 
-                    b.ToTable("AnswerIA");
+                    b.ToTable("answerIAs");
                 });
 
             modelBuilder.Entity("TestConsolaBD.DialyExercise", b =>
@@ -52,10 +55,10 @@ namespace TestConsolaBD.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
-                    b.Property<DateOnly>("Date")
-                        .HasColumnType("date");
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
 
-                    b.Property<int>("ExerciseHighPerformance")
+                    b.Property<int>("ExerciseHighPerfomance")
                         .HasColumnType("int");
 
                     b.Property<int>("ExerciseLowPerformance")
@@ -80,7 +83,7 @@ namespace TestConsolaBD.Migrations
 
                     b.HasIndex("UserID");
 
-                    b.ToTable("DialyExercises");
+                    b.ToTable("dialyExercises");
                 });
 
             modelBuilder.Entity("TestConsolaBD.DialyWater", b =>
@@ -91,8 +94,8 @@ namespace TestConsolaBD.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
-                    b.Property<DateOnly>("Date")
-                        .HasColumnType("date");
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
 
                     b.Property<int>("UserID")
                         .HasColumnType("int");
@@ -118,8 +121,8 @@ namespace TestConsolaBD.Migrations
                     b.Property<int>("Carbohydrate")
                         .HasColumnType("int");
 
-                    b.Property<DateOnly>("Date")
-                        .HasColumnType("date");
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
 
                     b.Property<int>("Fat")
                         .HasColumnType("int");
@@ -166,7 +169,7 @@ namespace TestConsolaBD.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("MealType");
+                    b.ToTable("MealTypes");
                 });
 
             modelBuilder.Entity("TestConsolaBD.Objective", b =>
@@ -191,7 +194,7 @@ namespace TestConsolaBD.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Objectives");
+                    b.ToTable("objectives");
                 });
 
             modelBuilder.Entity("TestConsolaBD.User", b =>

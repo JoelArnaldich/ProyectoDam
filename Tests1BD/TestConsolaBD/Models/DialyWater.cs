@@ -14,9 +14,10 @@ namespace TestConsolaBD
       [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
       [Key] public int ID {  get; set; }
       public int WaterLiter { get; set; }
-      public DateTime Date {  get; set; }
+      public DateOnly Date {  get; set; }
+      public required int UserID { get; set; }
 
-      //propiedad navegacion
-      public required User User { get; set; }  
+        //propiedad navegacion
+        public required User User { get; set; }  
     }
 }

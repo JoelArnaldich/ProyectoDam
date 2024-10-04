@@ -13,7 +13,8 @@ namespace TestConsolaBD
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Key] public int ID { get; set; }
         public required string Answers { get; set; }
-
+        
+        public required int UserID { get; set; }
         //propiedad navegacion
         public required User User { get; set; }
     }
